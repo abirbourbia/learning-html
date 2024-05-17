@@ -1,0 +1,15 @@
+$primaryColorone: red;
+$primaryColorTwo: white;
+
+body {
+    color: $primaryColorone;
+}
+p{
+    display: inline;
+    color: $primaryColorone;
+}
+
+li{
+    display: inline;
+}
+
